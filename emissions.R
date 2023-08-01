@@ -1,0 +1,1 @@
+emissions <- read.csv("data/API_EN.ATM.CO2E.PC_DS2_en_csv_v2_5607498/data.csv")
